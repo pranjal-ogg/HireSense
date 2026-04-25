@@ -2,7 +2,6 @@
 
 **HireSense** is a high-end AI-powered career intelligence system designed to bridge the gap between candidates and their dream jobs. It uses advanced parsing and scoring algorithms to analyze resumes, provide actionable feedback, and match candidates with high-tier job opportunities.
 
-![Design Preview](https://img.shields.io/badge/Design-Premium-blueviolet?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge)
 ![Deployment](https://img.shields.io/badge/Deploy-Vercel%20%2B%20Render-black?style=for-the-badge)
 
@@ -116,8 +115,3 @@ The system architecture is documented using Mermaid.js and can be found in the f
 - **Start Command**: `node server.js`
 
 ---
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-Developed with ❤️ by the **HireSense Team**.
