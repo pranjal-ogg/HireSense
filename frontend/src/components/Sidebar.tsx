@@ -1,6 +1,5 @@
-import React from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
-import { BarChart3, LayoutDashboard, Upload, Target, LogOut, Sparkles, User } from 'lucide-react';
+import { BarChart3, LayoutDashboard, Upload, Target, LogOut, User } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import toast from 'react-hot-toast';
 
